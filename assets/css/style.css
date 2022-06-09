@@ -1,3 +1,5 @@
+/*------------------------general styles*/
+
 * 
 {
     margin: 0;
@@ -9,9 +11,20 @@ body
 {
     font-family: Helvetica, Arial, sans-serif;
     color: #39a6b2;
+
 }
 
-/*Header styles*/
+.text-left
+{
+    text-align: left;
+}
+
+.text-right
+{
+    text-align: right;
+}
+
+/*------------------------Header styles*/
 
 header
 {
@@ -52,7 +65,7 @@ header nav ul li a
     font-size: 22px;
 }
 
-/*Footer styles*/
+/*------------------------Footer styles*/
 
 footer
 {
@@ -81,7 +94,7 @@ footer a
     color: #024376
 }
 
-/*Section styles*/
+/*------------------------Section styles*/
 
 section
 {
@@ -108,7 +121,7 @@ section
     border-color: #39a6b2;
 }
 
-/*Hero styles*/
+/*------------------------Hero styles*/
 
 .hero
 {
@@ -167,7 +180,7 @@ section
     font-size: 16px;
 }
 
-/*What We Do styles*/
+/*------------------------What We Do styles*/
 
 .intro
 {
@@ -183,7 +196,7 @@ section
     margin: 0 auto;
 }
 
-/*What You Do styles*/
+/*------------------------What You Do styles*/
 
 .steps
 {
@@ -220,7 +233,7 @@ section
     font-size: 38px;
 }
 
-/*Meet the Trainers styles*/
+/*------------------------Meet the Trainers styles*/
 
 .trainers
 {
@@ -247,4 +260,23 @@ section
     padding: 35px;
     float: left;
     width: 65%;
+}
+
+.trainer-bio h3
+{
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+.trainer-bio h4
+{
+    font-weight: lighter;
+    font-size: 26px;
+    margin-bottom: 25px;
+}
+
+.trainer-bio p
+{
+    font-size: 17px;
+    line-height: 1.3;
 }
