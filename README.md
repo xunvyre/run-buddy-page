@@ -12,3 +12,5 @@ To be launched.
 
 ## Contribution
 UCF Web Development Boot Camp, Xunvyre
+
+### ©️2019 Run Buddy, Inc 
