@@ -8,7 +8,7 @@ A website that offers training services. An example of a functioning website for
 * CSS
 
 ## Website
-!(https://xunvyre.github.io/run-buddy-page/)
+https://xunvyre.github.io/run-buddy-page/
 
 ## Contribution
 UCF Web Development Boot Camp, Xunvyre
